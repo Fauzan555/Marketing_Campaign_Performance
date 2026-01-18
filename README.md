@@ -50,3 +50,73 @@ Handled missing values
 
 Identified and fixed data type issues
 
+# Feature Engineering
+
+New metrics were created to enhance analysis:
+
+CTR (Click Through Rate)
+CTR = Clicks / Impressions
+
+ROI per Cost Unit
+ROI_per_Cost = ROI / Acquisition_Cost
+
+Cost per Conversion
+Cost_per_Conversion = Acquisition_Cost / Conversion_Rate
+
+ROI per Engagement Score
+
+ROI per CTR
+
+High Conversion Flag (above median conversion rate)
+
+# Exploratory Data Analysis (EDA)
+
+# Overall Campaign Performance
+
+Average Conversion Rate
+
+Mean ROI
+
+Average CTR
+
+Engagement Score distribution
+
+# Channel Performance Analysis
+
+ROI comparison across channels
+
+Channel usage distribution (pie chart)
+
+Identification of high-performing platforms
+
+#  Campaign Type Analysis
+
+ROI distribution by campaign type (boxplot)
+
+#  Marketing Funnel Analysis
+
+Impression → Click → Conversion
+
+Funnel visualization
+
+Clicks vs Impressions scatter plot
+
+#  Customer Segment Analysis
+
+Performance comparison across customer segments
+
+Conversion rate, ROI, and engagement trends
+
+# Target Audience & Localization
+
+ROI by target audience
+
+Conversion rate by language
+
+ROI by geographic location
+
+#  Engagement Threshold Discovery
+
+Comparison of engagement scores for high vs low conversion campaigns
+
+
