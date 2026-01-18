@@ -119,4 +119,43 @@ ROI by geographic location
 
 Comparison of engagement scores for high vs low conversion campaigns
 
+# Visualizations Included
+
+Pie charts
+
+Boxplots
+
+Scatter plots
+
+Bar charts
+
+Histograms
+
+All visualizations are designed to clearly communicate insights and trends.
+
+# Technologies Used
+
+Python 3
+
+Pandas – Data manipulation
+
+NumPy – Numerical operations
+
+Matplotlib & Seaborn – Data visualization
+
+Jupyter Notebook – Interactive analysis
+
+# Key Insights
+
+All marketing channels show similar ROI, but engagement and CTR vary
+
+Certain customer segments and age groups consistently outperform others
+
+High impressions do not always guarantee high conversions
+
+Engagement score alone does not strongly differentiate high-conversion campaigns
+
+
+
+
 
