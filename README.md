@@ -38,3 +38,15 @@ Engagement_Score – User engagement score (1–10)
 Customer_Segment – Market segment category
 
 Date – Campaign start date
+
+# Data Cleaning & Preprocessing
+Checked and removed duplicate records
+
+Converted date column to datetime format
+
+Extracted Month from the date for trend analysis
+
+Handled missing values
+
+Identified and fixed data type issues
+
